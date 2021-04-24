@@ -4,6 +4,8 @@ A procedural planet drawn on a HTML canvas.
 
 https://kattjakt.github.io/mars
 
+https://github.com/Kattjakt/mars-playground
+
 ---
 
 The original intent was to generate a procedural planet using only the current time and x/y-position (similar to fragment shaders).
